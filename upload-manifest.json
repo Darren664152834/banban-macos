@@ -1,0 +1,100 @@
+{
+  "version": "1.4.1",
+  "status": "passed",
+  "scope": "explicit release allowlist only",
+  "source_file_count": 14,
+  "app_file_count": 4,
+  "excludes_user_settings_history_credentials_and_imported_media": true,
+  "files": [
+    {
+      "path": "banban-macos/.gitignore",
+      "bytes": 212,
+      "sha256": "7235d70f84cb8e65df14dcb37813fce445334c16aa66dd7e0a5b429ff02ce8bc"
+    },
+    {
+      "path": "banban-macos/README.md",
+      "bytes": 2656,
+      "sha256": "f1011e22f40bcde61710a1fe554a5cddf612a050c103f971bda0e8b8f6c052e4"
+    },
+    {
+      "path": "banban-macos/PRIVACY-CHECK.md",
+      "bytes": 1764,
+      "sha256": "3d3e826c309a8512405b5963154ecf3f6d28c90dd4aa6f678fec9c0e2e646b69"
+    },
+    {
+      "path": "banban-macos/Sources/Core.swift",
+      "bytes": 24143,
+      "sha256": "3c9d36d4c2631bafbd197a73736ecd65b2c3a2afcd85029d8e45d84082330313"
+    },
+    {
+      "path": "banban-macos/Sources/Model.swift",
+      "bytes": 37928,
+      "sha256": "5e3e01c8c3dda07e616b6b828fa7700f664a2102b9698c4506e1a110c7bd634f"
+    },
+    {
+      "path": "banban-macos/Sources/Views.swift",
+      "bytes": 44963,
+      "sha256": "5acf9956c349edfe3f40319ead526aa48edb3852136f88bd17608fb800aa8de2"
+    },
+    {
+      "path": "banban-macos/Sources/Desktop.swift",
+      "bytes": 39113,
+      "sha256": "92cf470ca5b2edc7c2c538273009f51f3e6b9b73386174417e34a01d2e252d96"
+    },
+    {
+      "path": "banban-macos/Sources/Gallery.swift",
+      "bytes": 8351,
+      "sha256": "2c88d4d70d6b0d0021cea20fee3ce6ff2fec9984dc175caf73e9fce2fd6c4607"
+    },
+    {
+      "path": "banban-macos/Sources/Main.swift",
+      "bytes": 353,
+      "sha256": "47d22dcb620a215351b0f32372036419bb5e4865ab767535d2a4dd5716adcc16"
+    },
+    {
+      "path": "banban-macos/build.sh",
+      "bytes": 1858,
+      "sha256": "205ca9849d1b6615917f3bd7cdb16574da9add589064bfa7819c788d87414915"
+    },
+    {
+      "path": "banban-macos/test.sh",
+      "bytes": 509,
+      "sha256": "7f7b36aaa72911428b6d53c3c25891e8343593acaa8d7666e12d35383e81bf96"
+    },
+    {
+      "path": "banban-macos/AppIcon.icns",
+      "bytes": 123250,
+      "sha256": "01408026e079441afd9e105d3d5906a77541bf0769212febb92737463b29932b"
+    },
+    {
+      "path": "banban-macos/Tests/SelfTests.swift",
+      "bytes": 54524,
+      "sha256": "8b15683d608a99d00bea18114e51310fa6d82ad0fe9ff544d3f8afc09354e59c"
+    },
+    {
+      "path": "banban-macos/Tests/Fixtures/loop-test.mp4",
+      "bytes": 3360,
+      "sha256": "5c3ff4e89614f29c3c2806b83a87558c1a4f440a4ceea7c4c318e73dd9132a77"
+    },
+    {
+      "path": "伴伴.app/Contents/MacOS/Banban",
+      "bytes": 2254032,
+      "sha256": "d410653585701d5d1a39b6138ad056205922dc74b08e4577c0160ac308bff432"
+    },
+    {
+      "path": "伴伴.app/Contents/Info.plist",
+      "bytes": 937,
+      "sha256": "84b32fe9242aa5c421a555a42def057f8aa843f3dfa73c799129dc481ce6813e"
+    },
+    {
+      "path": "伴伴.app/Contents/Resources/AppIcon.icns",
+      "bytes": 123250,
+      "sha256": "01408026e079441afd9e105d3d5906a77541bf0769212febb92737463b29932b"
+    },
+    {
+      "path": "伴伴.app/Contents/_CodeSignature/CodeResources",
+      "bytes": 2446,
+      "sha256": "5e8fdc4709183ae53fc4b3c16c1456aa4c1f8db8f919a8bb86a4b1168c0d0210"
+    }
+  ]
+}
